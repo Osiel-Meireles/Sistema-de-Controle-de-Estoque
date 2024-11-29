@@ -6,13 +6,7 @@ namespace ExerciciosCsharp
 {
     internal class Program
     {
-        public class Produto
-        {
-            public string Nome { get; set; }
-            public decimal Preco { get; set; }
-            public int Quantidade { get; set; }
-        }
-
+        
         static void Main(string[] args)
         {
             Console.WriteLine("Bem-vindo ao assistente de cadastro de produtos!");
