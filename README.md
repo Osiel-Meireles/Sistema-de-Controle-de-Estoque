@@ -1,6 +1,8 @@
 # Assistente de Cadastro de Produtos
 
-Este projeto é um **assistente de cadastro de produtos** simples desenvolvido em **C#**. Ele permite cadastrar, editar, excluir e exibir produtos, além de calcular o valor total de cada produto no estoque.
+Este projeto é um **assistente de cadastro de produtos** beeem simples, desenvolvido em **C#**. Ele permite cadastrar, editar, excluir e exibir produtos, além de calcular o valor total de cada produto no estoque.
+
+O projeto está acompanhando a minha curva de evolução em C#, então conforme eu for evoluindo na linguagem, vou adicionando novas funcionalidades e, quem sabe, no futuro eu crie até uma interface gráfica para ele.
 
 ## Funcionalidades
 
